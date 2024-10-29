@@ -1,9 +1,9 @@
 const cacheName = "FUZE Games-TrophySpace-0.1.0";
 const contentToCache = [
     "Build/web.loader.js",
-    "Build/web.framework.js.br",
-    "Build/web.data.br",
-    "Build/web.wasm.br",
+    "Build/web.framework.js.gz",
+    "Build/web.data.gz",
+    "Build/web.wasm.gz",
     "TemplateData/style.css"
 
 ];
